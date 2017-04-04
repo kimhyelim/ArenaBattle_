@@ -13,11 +13,10 @@
 			]
 		},
 		{
-			"Name": "WebServeice",
+			"Name": "WebService",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine",
 				"CoreUObject"
 			]
 		}
